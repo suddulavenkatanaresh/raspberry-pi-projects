@@ -10,5 +10,10 @@ Micro SD card slot, VideoCore IV 3D graphics core, Camera interface (CSI), Displ
 
 
 
-by this repository you can learn the various things about the raspberry pi 
+By this repository you can learn the various things about the raspberry pi 
+
+The essential skills required for the understading the varoius projects made by the raspi you have to learn the 
+1.LINUX
+2.PYTHON
+
 
